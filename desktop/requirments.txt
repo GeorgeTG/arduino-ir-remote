@@ -1,0 +1,2 @@
+evdev==0.6.0
+pyserial==3.0.1
